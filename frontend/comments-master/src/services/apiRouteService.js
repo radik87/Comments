@@ -1,0 +1,1 @@
+export const endpoint = "https://localhost:44335/api/comment";
